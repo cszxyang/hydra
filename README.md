@@ -1,8 +1,3 @@
-### 名字由来
+## hydra
 
-https://wenku.baidu.com/view/315d341f4531b90d6c85ec3a87c24028915f8507.html
-
-### todo
-
-- state dp --> CircuitBreaker
-- load balancer
+Hydra is a high performance remote procedure call framework based on netty.
